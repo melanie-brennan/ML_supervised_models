@@ -1,4 +1,4 @@
-## Classifying Pulsars versus Non-Pulsars with Supervised Machine Learning
+## Classifying Pulsars and Non-Pulsars using Supervised Machine Learning
 
 
 Pulsars are a rare type of neutron star that emit radio waves.  The HRTU2 data set was collected during the High Time Resolution Universe Survey (South) and contains samples of pulsar candidates.  The data set is unbalanced, containing 16, 259 spurious examples caused by RFI/noise and 1,639 real pulsar examples, giving a baseline accuracy of 90.8%.
@@ -39,7 +39,7 @@ Gaussian NB   |0.943         |0.057         |0.6382        |0.835         |0.735
 ### Comparison of Classifiers
 All classifiers performed better than the base accuracy of 0.908.  
 
-The shape of the ROC curves reveals that these classifiers tend to classify negatives as false positives rather than positives as false negatives.  This is useful as it can direct further attention towards more likely pulsar candidates whilst less likely to miss likely pulsar candidates.
+The shape of the ROC curves reveals that these classifiers tend to classify negatives as false positives rather than positives as false negatives.  This is useful as it can direct further attention towards more likely pulsar candidates whilst also being less likely to miss pulsar candidates.
 
 
 ### Datasets
