@@ -43,13 +43,19 @@ The shape of the ROC curves reveals that these classifiers tend to classify nega
 
 
 ### Datasets
-https://archive.ics.uci.edu/ml/datasets/Cardiotocography
 https://archive.ics.uci.edu/ml/datasets/HTRU2
 
 ### References
+
 Brownlee, J, 2014 “Classification Accuracy is Not Enough, More Performance Measures you can use”
+
 https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
-Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. Fawcett, T., 2006. An introduction to ROC analysis. Pattern recognition letters, 27(8), pp.861-874. Géron, A., 2017. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. " O'Reilly Media, Inc.".
+
+Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. Fawcett, T., 2006. An introduction to ROC analysis. Pattern recognition letters, 27(8), pp.861-874. 
+
+Géron, A., 2017. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. " O'Reilly Media, Inc.".
+
 R. J. Lyon, HTRU2, DOI: 10.6084/m9.figshare.3080389.v1.
+
 R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach, Monthly Notices of the Royal Astronomical Society 459 (1), 1104-1123, DOI: 10.1093/mnras/stw656 Raschka, S., 2015. Python machine learning. Packt Publishing Ltd.
 
