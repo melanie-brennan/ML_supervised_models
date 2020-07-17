@@ -15,13 +15,13 @@ The best hyperparameters were found with a cross validated grid search and then 
 ### Results
 Learning curves            | Receiver Operating Characteristic curve
 :-------------------------:|:-------------------------:
-Decision tree learning curves             | Decision tree ROC curve
+Decision tree      | 
 ![Decision Tree Learning Curve](results/LC_Decision_Tree_error_rate_metric.png "Decision Tree Learning Curve") | ![Decision Tree ROC](results/ROC_Decision_Tree_Classifier.png "Decision Tree ROC")
-Random forest learning curves             | Random forest ROC curve
+Random forest      | 
 ![Random Forest Learning Curve](results/LC_Random_Forest_error_rate_metric.png "Random Forest Learning Curve") | ![Random Forest ROC](results/ROC_Random_Forest_Classifier.png "Random Forest ROC")
-SVM             | 
+SVM        | 
 ![Support Vector Learning Curve](results/LC_Support_Vector_Machine_error_rate_metric.png "SVM Learning Curve") | ![Support Vector Machine ROC](results/ROC_Support_Vector_Machine_Classifier.png "SVM ROC")
-AdaBoost Learning Curves   | AdaBoost ROC curve
+AdaBoost   | 
 ![AdaBoost Learning Curve](results/LC_Ada_Boost_error_rate_metric.png "AdaBoost Learning Curve") | ![AdaBoost ROC](results/ROC_Ada_Boost_Classifier.png "AdaBoost ROC")
 
 
@@ -42,7 +42,7 @@ All classifiers performed better than the base accuracy of 0.908.
 The shape of the ROC curves reveals that these classifiers tend to classify negatives as false positives rather than positives as false negatives.  This is useful as it can direct further attention towards more likely pulsar candidates whilst also being less likely to miss pulsar candidates.
 
 
-### Datasets
+### Dataset
 https://archive.ics.uci.edu/ml/datasets/HTRU2
 
 ### References
