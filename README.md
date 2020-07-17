@@ -39,11 +39,12 @@ Gaussian NB   |0.943         |0.057         |0.6382        |0.835         |0.735
 ### Comparison of Classifiers
 All classifiers performed better than the base accuracy of 0.908.  
 
-The shape of the ROC curves reveals that these classifiers tend to classify negatives as false positives rather than positives as false negatives.  This is useful as it can direct further attention towards more likely pulsar candidates whilst also being less likely to miss pulsar candidates.
+All of the ROC curves are a similar shape.  The shape reveals that the errors these classifiers tend to make is to classify negatives as false positives rather than positives as false negatives.  This is useful as it can direct further attention towards more likely pulsar candidates whilst also being less likely to miss real pulsars.
 
 
 ### Dataset
 https://archive.ics.uci.edu/ml/datasets/HTRU2
+
 
 ### References
 
